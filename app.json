@@ -1,0 +1,13 @@
+{
+  "name": "frases-web",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
